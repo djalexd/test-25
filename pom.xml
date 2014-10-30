@@ -7,6 +7,7 @@
         <module>money-utils</module>
         <module>transaction-list</module>
         <module>optimizations</module>
+        <module>file-transfer</module>
     </modules>
     <groupId>com.github.acme.tests</groupId>
     <version>0.1-SNAPSHOT</version>
